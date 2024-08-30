@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... every oppurtunity i get
 - 📫 How to reach me ... email me at aura.ashwin@gmail.com
 - 😄 Pronouns: ...ashwin 
-- ⚡ Fun fact: ... i am making my website ashwinrajpal.me
+- ⚡ Fun fact: ... i am making my website www.ashwinrajpal.me
 
 <!---
 auraashwin/auraashwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
